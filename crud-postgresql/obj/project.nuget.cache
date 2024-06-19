@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BGZGCJN4TrlkQG7agYl+4t00YjPw5Cma1p1KJMoK76rQt1doIRQcaxR4ftr2cM2oPJvcq9k8weqGtey3ZOqv9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Toshiba\\RiderProjects\\Enigpus\\crud-postgresql\\crud-postgresql\\crud-postgresql.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
